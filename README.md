@@ -7,3 +7,9 @@ Project 생성, 팀원 추가 및 제거 , Gantt 차트, tasks, todo , 결재를
 사용 이유로는 모든 메서드에 대해 실행 시간을 자동으로 측정하므로, 성능 문제를 쉽게 감지하고, 최적화가 필요한 부분을 식별할 수 있어서 입니다
 
 PPT와 발표 영상참고 해주시면좋을것같습니다
+
+https://drive.google.com/file/d/1ATZKLgQ_QVScyOwsOvmwThi8LLKThz5h/view?usp=drivesdk
+시연 자료
+
+https://drive.google.com/file/d/1ecbJzskPWBq35CDkMf12vT6PSaozz3SW/view?usp=drivesdk
+PPT 발표 자료
