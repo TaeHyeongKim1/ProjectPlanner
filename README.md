@@ -13,3 +13,8 @@ https://drive.google.com/file/d/1ATZKLgQ_QVScyOwsOvmwThi8LLKThz5h/view?usp=drive
 
 https://drive.google.com/file/d/1ecbJzskPWBq35CDkMf12vT6PSaozz3SW/view?usp=drivesdk
 PPT 발표 자료
+
+![image](https://github.com/user-attachments/assets/7416d185-9dba-450b-b2a8-361ea7511176)
+Spring AOP 사용 
+
+
