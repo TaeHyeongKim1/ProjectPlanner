@@ -17,4 +17,30 @@ PPT 발표 자료
 ![image](https://github.com/user-attachments/assets/7416d185-9dba-450b-b2a8-361ea7511176)
 Spring AOP 사용 
 
+![image](https://github.com/user-attachments/assets/4542869d-1f5a-4277-8014-8a2eaedadb38)
+프로젝트 리스트 페이지
+
+![image](https://github.com/user-attachments/assets/08ff7f72-bdc2-4e10-b06b-15e735a612b4)
+프로젝트 상세 페이지
+
+![image](https://github.com/user-attachments/assets/558e5822-b670-430c-a016-318eb66a16eb)
+업무 Gantt 페이지 
+
+![image](https://github.com/user-attachments/assets/888cbc4b-7d95-4b90-8b75-db11152749bc)
+내 할일 페이지
+
+![image](https://github.com/user-attachments/assets/1217b786-d1bc-46ff-86f4-901ff459fd5c)
+파일 업로드 관련 모달창
+
+![image](https://github.com/user-attachments/assets/7a2986ea-bc36-4922-9325-81ece08147bd)
+결재 창 
+
+![image](https://github.com/user-attachments/assets/98398bf2-857c-4d35-8ff9-df3d32207fbf)
+결재 페이지 
+
+
+
+
+
+
 
