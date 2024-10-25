@@ -1,4 +1,4 @@
-<Prpject Planner 사이트 프로젝트>
+## <Prpject Planner 사이트><br>
 -작업 기간 : 2024. 07. 22 ~ 2024. 08. 26 <br>
 -주제 : 프로젝트 관리 시스템(Project Management System) 사이트 <br>
 -목적 : 개발자를 대상으로 고객이 온라인에서 Project Planner 사이트를 활용하여 실시간 채팅, 간트차트, 캘린더, 게시판, 프로젝트 예산 관리 등의 여러 기능을 이용함으로써 원활한 의사소통으로 효율적인 프로젝트를 진행하는 것을 주목적으로 진행된 프로젝트 관리 시스템(Project Management System) 사이트 프로젝트 입니다. <br>
